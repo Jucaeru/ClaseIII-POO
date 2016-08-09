@@ -12,6 +12,6 @@
  */
 public class EjemploJavaDoc {
     public static void main (String[] arg){
-        System.out.print("gg pe csm");
+        System.out.println("gg pe csm");
     } 
 }
